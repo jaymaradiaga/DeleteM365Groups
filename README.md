@@ -1,0 +1,1 @@
+# DeleteM365Groups
